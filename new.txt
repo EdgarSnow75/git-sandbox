@@ -1,2 +1,6 @@
 Hi!!!
-Work!
+<<<<<<< HEAD
+Hello work friends!
+=======
+Hello Friends!
+>>>>>>> testing
